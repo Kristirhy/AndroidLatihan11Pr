@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidLatihan11Pr</string>
+    <string name="api_key">d7b2abd1e1ef3a415c607f0687017d34</string>
+    <string name="base_path_poster">https://image.tmdb.org/t/p/w500</string>
+</resources>
